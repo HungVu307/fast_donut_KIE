@@ -6,7 +6,7 @@ This repo aim to build a new E2E model, not depend on OCR engine.
 ## Theory
 We experiment with Donut model, by replace Swin-Transformer encoder by FastViT encoder:
 ![plot](image/1.png)
-New model only has 81M params and with re-params technique, we can train on multi-branch and reference on sigle-branch. More information can be found at [FastViT](https://arxiv.org/abs/2303.14189)
+New model only has 81M params and with re-params technique, we can train on multi-branch and reference on single-branch. More information can be found at [FastViT](https://arxiv.org/abs/2303.14189)
 ## Installation
 First, git clone this repo
 ``` bash
