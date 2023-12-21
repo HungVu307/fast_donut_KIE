@@ -18,7 +18,7 @@ To train with CORD dataset:
 ```bash
 python train.py
 ```
-You can modify config at 'config/train_cord.yaml'
+You can modify config at ```'config/train_cord.yaml'```
 
 ## For testing
 To test with CORD dataset:
