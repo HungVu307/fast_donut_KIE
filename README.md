@@ -25,3 +25,5 @@ To test with CORD dataset:
 ```bash
 python test.py --pretrained_model_name_or_path 'YOUR_PATH_TO_WEIGHT'
 ```
+## Option
+If you want to train with original model, you can also replace ```fastmodel.py``` by ```model.py```
