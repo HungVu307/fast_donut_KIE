@@ -1,0 +1,4 @@
+pip install timm
+pip install transformers==4.25.1
+pip install pytorch-lightning
+pip install datasets
