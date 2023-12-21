@@ -23,5 +23,5 @@ You can modify config at 'config/train_cord.yaml'
 ## For testing
 To test with CORD dataset:
 ```bash
-python test.py --pretrained_model_name_or_path 'YOUR_PATH'
+python test.py --pretrained_model_name_or_path 'YOUR_PATH_TO_WEIGHT'
 ```
