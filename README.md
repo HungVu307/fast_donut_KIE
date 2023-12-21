@@ -9,7 +9,7 @@ New model only has 81M params and with re-params technique, we can train on mult
 First, git clone this repo
 ``` bash
 git clone https://github.com/HungVu307/fast_donut_KIE
-cd donut_project
+cd fast_donut_KIE
 ```
 ## For training
 To train with CORD dataset:
