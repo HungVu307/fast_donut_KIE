@@ -1,6 +1,8 @@
 # DOcument Understanding Transformer with FastViT encoder on CORD dataset.
-This project was carried out while working at VinBigdata
+This project was carried out while working at VinBigdata.
 My code was based on [Original Repo](https://github.com/clovaai/donut/tree/master)
+
+This repo aim to build a new E2E model, not depend on OCR engine. 
 ## Theory
 We experiment with Donut model, by replace Swin-Transformer encoder by FastViT encoder:
 ![plot](image/1.png)
