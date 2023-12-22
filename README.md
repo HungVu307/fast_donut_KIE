@@ -31,3 +31,5 @@ python test.py --pretrained_model_name_or_path 'YOUR_PATH_TO_WEIGHT'
 ```
 ## Option
 If you want to train with original model, you can also replace ```donut.fastmodel``` by ```donut.model```
+
+But note that ```donut.model``` only work with ```timm==0.5.4```
