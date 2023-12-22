@@ -13,6 +13,10 @@ First, git clone this repo
 git clone https://github.com/HungVu307/fast_donut_KIE
 cd fast_donut_KIE
 ```
+After that, install libraries:
+```bash
+pip install -r requirement.txt
+```
 ## For training
 To train with CORD dataset:
 ```bash
